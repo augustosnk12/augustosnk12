@@ -25,5 +25,7 @@
 ![Augusto's github stats](https://github-readme-stats.vercel.app/api?username=augustosnk12&show_icons=true&theme=radical)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustosnk12&layout=compact&langs_count=7&theme=radical)
 
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=social&logo=Linkedin)](https://www.linkedin.com/in/augusto-1908/)
 [![kkk](https://img.shields.io/youtube/channel/views/UCtxGmIrbo-9d3KMBz3GH3mQ?style=social)](https://www.youtube.com/channel/UCtxGmIrbo-9d3KMBz3GH3mQ)
+![](https://komarev.com/ghpvc/?username=your-github-augustosnk12&color=ff69b4&style=flat&label=visitors)
