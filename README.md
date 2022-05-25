@@ -1,7 +1,7 @@
 ### Hi, I'm Augusto, but not the Rome Emperor :sweat_smile:
 
 - 🔭 I’m currently working as Junior Developer in [OnGold Tech](https://ongoldtech.com) 
-- 🌱 I’m currently learning PHP, CSS and _un po' di italiano_ 
+- 🌱 I’m currently improving my knowledge in React and learning _un po' di italiano_ 
 - 👯 I’m also looking to collaborate on open source projects
 - 🤔 I’m looking for help with FRONTEND :sob:  
 - ⚡ Fun fact: I love pigs :pig: :pig_nose:
