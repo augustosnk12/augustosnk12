@@ -1,6 +1,6 @@
 ### Hi, I'm Augusto, but not the Rome Emperor :sweat_smile:
 
-- 🔭 I’m currently working as Junior Developer in [OnGold Tech](https://ongoldtech.com) 
+- 🔭 I’m currently working as Software Developer in [OnGold Tech](https://ongoldtech.com) 
 - 🌱 I’m currently improving my knowledge in React and learning _un po' di italiano_ 
 - 👯 I’m also looking to collaborate on open source projects
 - 🤠 Sometimes I work as freelancer
